@@ -18,6 +18,14 @@ You may also see any lint errors in the console.
 
 ![Screenshot (115)](https://github.com/user-attachments/assets/e344c73c-bbf5-40c0-a925-b576fa8c13de)
 
+=> If you are a new user , you should click on signup and it will directed to register page.
+
+![Screenshot (126)](https://github.com/user-attachments/assets/d6272cd0-9099-4e57-b93e-6f87b5b153b8)
+
+=> After filling required Credentials you will directed to login page.
+
+![Screenshot (125)](https://github.com/user-attachments/assets/b2f83efe-37fd-474f-bb9a-18cc07394527)
+
 => If you fill incorrect credentials in the login form then the toast notification pop up .
 
 ![Screenshot (117)](https://github.com/user-attachments/assets/c99430d1-e577-4bc5-9d54-f7f64b21081b)
